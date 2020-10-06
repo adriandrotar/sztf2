@@ -1,0 +1,14 @@
+C:\Users\Drotar Adrian\Desktop\Feleves_Feladat_BCXFMD\bin\Debug\Feleves_Feladat_BCXFMD.exe.config
+C:\Users\Drotar Adrian\Desktop\4. Félév\Szoftvertervezés és -fejlesztés II\Féléves Feladat\Feleves_Feladat_BCXFMD\bin\Debug\Feleves_Feladat_BCXFMD.exe.config
+C:\Users\Drotar Adrian\Desktop\4. Félév\Szoftvertervezés és -fejlesztés II\Féléves Feladat\Feleves_Feladat_BCXFMD\bin\Debug\Feleves_Feladat_BCXFMD.exe
+C:\Users\Drotar Adrian\Desktop\4. Félév\Szoftvertervezés és -fejlesztés II\Féléves Feladat\Feleves_Feladat_BCXFMD\bin\Debug\Feleves_Feladat_BCXFMD.pdb
+C:\Users\Drotar Adrian\Desktop\4. Félév\Szoftvertervezés és -fejlesztés II\Féléves Feladat\Feleves_Feladat_BCXFMD\obj\Debug\Feleves_Feladat_BCXFMD.csprojResolveAssemblyReference.cache
+C:\Users\Drotar Adrian\Desktop\4. Félév\Szoftvertervezés és -fejlesztés II\Féléves Feladat\Feleves_Feladat_BCXFMD\obj\Debug\Feleves_Feladat_BCXFMD.exe
+C:\Users\Drotar Adrian\Desktop\4. Félév\Szoftvertervezés és -fejlesztés II\Féléves Feladat\Feleves_Feladat_BCXFMD\obj\Debug\Feleves_Feladat_BCXFMD.pdb
+C:\Users\Drótár Adrián\Desktop\Féléves Feladat\Feleves_Feladat_BCXFMD\bin\Debug\Feleves_Feladat_BCXFMD.exe.config
+C:\Users\Drótár Adrián\Desktop\Féléves Feladat\Feleves_Feladat_BCXFMD\bin\Debug\Feleves_Feladat_BCXFMD.exe
+C:\Users\Drótár Adrián\Desktop\Féléves Feladat\Feleves_Feladat_BCXFMD\bin\Debug\Feleves_Feladat_BCXFMD.pdb
+C:\Users\Drótár Adrián\Desktop\Féléves Feladat\Feleves_Feladat_BCXFMD\obj\Debug\Feleves_Feladat_BCXFMD.csprojAssemblyReference.cache
+C:\Users\Drótár Adrián\Desktop\Féléves Feladat\Feleves_Feladat_BCXFMD\obj\Debug\Feleves_Feladat_BCXFMD.csproj.CoreCompileInputs.cache
+C:\Users\Drótár Adrián\Desktop\Féléves Feladat\Feleves_Feladat_BCXFMD\obj\Debug\Feleves_Feladat_BCXFMD.exe
+C:\Users\Drótár Adrián\Desktop\Féléves Feladat\Feleves_Feladat_BCXFMD\obj\Debug\Feleves_Feladat_BCXFMD.pdb
